@@ -8,7 +8,9 @@ program
     .option("-n, --name <type>", "user name")
     .option("-e, --email <type>", "user email")
     .option("-p, --phone <type>", "user phone");
+
 program.parse(process.argv);
+
 const argv = program.opts();
 
 async function invokeAction({ action, id, name, email, phone }) {

@@ -7,7 +7,7 @@
         "start:dev": "nodemon index.js"
     },
     "keywords": [],
-    "author": "Anita_Baron <anitka.ba@gmail.com>",
+    "author": "MKamilAmin <kamilamin1@yahoo.com>",
     "license": "ISC",
     "type": "commonjs",
     "description": "",
